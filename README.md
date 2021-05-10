@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on my apps displayed in the portfolio
 - 📫 Reach me at ... banurekha279@gmail.com
 
+Check out the working models of my past projects.
+
+## [Portfolio](https://banurekhamohan279.github.io/Banurekha-Mohan-Portfolio/)
+![Working Model](https://github.com/banurekhaMohan279/Portfolio-V1/blob/master/images/workingModel.gif)
+
+## [Hunger Buddy](https://banurekhamohan279.github.io/Hunger-Buddy/)
+![Workng Model](https://github.com/banurekhaMohan279/Hunger-Buddy/blob/master/src/assets/workingModel.gif)
 <!---
 banurekhaMohan279/banurekhaMohan279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
