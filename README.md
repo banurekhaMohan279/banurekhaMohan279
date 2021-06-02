@@ -12,9 +12,9 @@ Check out the links of some of my past projects :)
 ## [Hunger Buddy](https://banurekhamohan279.github.io/Hunger-Buddy/)
 ![Workng Model](https://github.com/banurekhaMohan279/Hunger-Buddy/blob/master/src/assets/workingModel.gif)
 
-## [Ask the Minion](https://banurekhamohan279.github.io/Ask-The-Minion/)
+<!---## [Ask the Minion](https://banurekhamohan279.github.io/Ask-The-Minion/)
 ![Workng Model](https://github.com/banurekhaMohan279/Ask-The-Minion/blob/master/img/workingModel.gif)
-<!---
+
 banurekhaMohan279/banurekhaMohan279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
