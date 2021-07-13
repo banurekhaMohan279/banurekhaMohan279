@@ -12,6 +12,9 @@ Check out the links of some of my projects :)
 ## [Hunger Buddy](https://banurekhamohan279.github.io/Hunger-Buddy/)
 ![Workng Model](https://github.com/banurekhaMohan279/Hunger-Buddy/blob/master/src/assets/workingModel.gif)
 
+## [COVID IND Recharts](https://github.com/banurekhaMohan279/COVID-IND-RECHARTS/)
+![Workng Model](https://github.com/banurekhaMohan279/COVID-IND-RECHARTS/blob/main/workingmodel.gif)
+
 <!---## [Ask the Minion](https://banurekhamohan279.github.io/Ask-The-Minion/)
 ![Workng Model](https://github.com/banurekhaMohan279/Ask-The-Minion/blob/master/img/workingModel.gif)
 
