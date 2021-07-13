@@ -18,6 +18,9 @@ Check out the links of some of my projects :)
 ## [AgroFarms](https://banurekhamohan279.github.io/agroFarms/)
 ![Workng Model](https://github.com/banurekhaMohan279/agroFarms/blob/master/workingmodel.gif)
 
+## [Amazon Reviews Sentiment Analyser](https://banurekhamohan279.github.io/AmazonReviews-Analyser/)
+![Workng Model](https://github.com/banurekhaMohan279/AmazonReviews-Analyser/blob/master/public/img/workingModel.gif)
+
 <!---## [Ask the Minion](https://banurekhamohan279.github.io/Ask-The-Minion/)
 ![Workng Model](https://github.com/banurekhaMohan279/Ask-The-Minion/blob/master/img/workingModel.gif)
 
