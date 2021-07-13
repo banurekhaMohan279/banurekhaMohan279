@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Banurekha!
-- 👀 I’m interested in builing Scalable, Resilient web apps.
-- 🌱 I’m currently learning React Hooks and Frontend Architecture (specifically about Microfrontends)
-- 💞️ I’m looking to collaborate on my apps displayed in the portfolio
-- 📫 Reach me at ... banurekha279@gmail.com
+- 👋  Hi, I’m Banurekha!
+- 👀  I’m interested in builing scalable, resilient web apps.
+- 🌱  I’m currently learning React Hooks and Frontend Architecture (specifically about Microfrontends)
+- 💞️  I’m looking to collaborate on my apps displayed in the portfolio
+- 📫  Reach me at ... banurekha279@gmail.com
 
 Check out the links of some of my projects :)
 
