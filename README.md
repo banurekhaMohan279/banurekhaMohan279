@@ -7,7 +7,7 @@
 Check out the links of some of my projects :)
 
 ## [My Portfolio](https://banurekhamohan279.github.io/Banurekha-Mohan-Portfolio/)
-![Working Model](https://github.com/banurekhaMohan279/Portfolio-V1/blob/master/images/workingModel.gif)
+![Working Model](https://github.com/banurekhaMohan279/Banurekha-Mohan-Portfolio/blob/master/img/workingModel.gif)
 
 ## [Hunger Buddy](https://banurekhamohan279.github.io/Hunger-Buddy/)
 ![Workng Model](https://github.com/banurekhaMohan279/Hunger-Buddy/blob/master/src/assets/workingModel.gif)
